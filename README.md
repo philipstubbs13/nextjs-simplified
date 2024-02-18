@@ -1,1 +1,2 @@
-# nextjs-simplified
+# Next.js Simplified
+
