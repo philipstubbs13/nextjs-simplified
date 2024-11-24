@@ -10,3 +10,4 @@
 * Streaming RSCs with Suspense
 * <https://buildui.com/posts/global-progress-in-nextjs>
 * <https://www.youtube.com/watch?v=QiR9viVIJgo>
+* <https://github.com/aurorascharff/next15-filterlist>
